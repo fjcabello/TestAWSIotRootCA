@@ -1,0 +1,17 @@
+{
+  "name": "test_rootca",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app_not_working.js",
+  "dependencies": {
+    "aws": "0.0.3-2",
+    "aws-iot-device-sdk": "^2.2.1",
+    "aws-sdk": "^2.337.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
